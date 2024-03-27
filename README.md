@@ -3,4 +3,4 @@ Sometimes you need a simple translator that is fast, easy, and reliable to use q
 # Class Diagram
 ![Untitled Diagram drawio](https://github.com/giannasanone/SpanishTranslator/assets/158311394/971cb475-9051-479a-bf83-d47828aad8c7)
 # Start Screen
-![
+![(https://github.com/giannasanone/SpanishTranslator/blob/main/images/StartScreen.jpg?raw=true)https://github.com/giannasanone/SpanishTranslator/blob/main/images/StartScreen.jpg?raw=true]
